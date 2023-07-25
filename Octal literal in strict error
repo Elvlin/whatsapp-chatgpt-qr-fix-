@@ -1,2 +1,3 @@
 Run this command 
+npm install artradeapp/qrcode-terminal
 npm install vite-node@0.31.1
